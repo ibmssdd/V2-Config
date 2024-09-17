@@ -1,0 +1,12 @@
+services:
+  loans:
+    image: "dahiyasandeep/loans:S6A"
+    container_name: loans-ms
+    ports:
+      - "8090:8090"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+    networks:
+      - eazybank

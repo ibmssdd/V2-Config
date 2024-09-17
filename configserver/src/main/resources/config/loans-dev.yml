@@ -1,12 +1,12 @@
 build:
-  version: "11.0"
+  version: "3.0"
 
 #developerinfo:
 loans:
-  message: "Welcome to SandyzApp related prod Z APIs "
+  message: "Welcome to SandyzApp related Dev Z APIs "
   contactDetails:
     name: "Sandeep Dahiya - Producer"
-    email: "PRODmail.sandeepdahiyalgmail.com"
+    email: "DEVmail.sandeepdahiyalgmail.com"
   onCallSupport:
     - (452) 456-2176
     - (546) 764-8934
